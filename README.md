@@ -17,7 +17,7 @@ I'm a **Computer Science Engineering student** (VTU) with a strong passion for t
 
 I enjoy solving problems through code, exploring **Artificial Intelligence, Machine Learning, Data Science**, and Cloud technologies. Currently focused on gaining industry exposure and building meaningful projects.
 
-**Fun Fact:** I've maintained an **800+ day Duolingo streak** in German and can communicate fluently! 🇩🇪
+**Fun Fact:** I've maintained an **900+ day Duolingo streak** in German and can communicate fluently! 🇩🇪
 
 **Mindset:** Consistency > Motivation ✨
 
