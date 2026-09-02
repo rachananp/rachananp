@@ -387,7 +387,7 @@ I enjoy exploring technology, research, languages, communities and new ideas bey
 
 ### 🇩🇪 Fun Fact
 
-I've maintained a **900+ day Duolingo streak** while learning German.
+I've maintained a **960-day Duolingo streak** while learning German.
 
 ```text
 DAY 001
@@ -398,18 +398,18 @@ DAY 001
    │
    ├──────── DAY 500
    │
-   └──────────────── DAY 900+ 🔥
+   ├──────────────── DAY 900
+   │
+   └────────────────────── DAY 960 🔥
 ```
 
 ---
 
-# 💻 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=rachananp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rachananp&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
@@ -458,7 +458,7 @@ DAY 001
 # 📌 What I'm Working Toward
 
 ```text
-                 CURIOUSITY
+                 CURIOSITY
                      │
                      ▼
                LEARN THE BASICS
