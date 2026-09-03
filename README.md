@@ -189,25 +189,6 @@ Intelligent Monitoring
 ```
 
 ---
-
-## 🛡️ Kavach — AadhaarShield
-
-### AI + Digital Security
-
-A technology-focused project exploring approaches toward **protecting sensitive identity information** and improving digital security.
-
-**Core idea**
-
-`Security` → `Intelligent Systems` → `Detection` → `Protection`
-
----
-
-## 🧠 Tattva
-
-An AI-oriented project built around applying technology to a real-world problem, with an emphasis on **practical implementation rather than purely theoretical modelling**.
-
----
-
 # 🧪 My ML Stack
 
 <div align="center">
@@ -387,7 +368,7 @@ I enjoy exploring technology, research, languages, communities and new ideas bey
 
 ### 🇩🇪 Fun Fact
 
-I've maintained a **960-day Duolingo streak** while learning German.
+I've maintained a **970+ days Duolingo streak** while learning German.
 
 ```text
 DAY 001
@@ -446,7 +427,7 @@ DAY 001
 ║                    ↓                     ║
 ║            DO REAL RESEARCH              ║
 ║                    ↓                     ║
-║        BUILD SOMETHING MEANINGFUL       ║
+║        BUILD SOMETHING MEANINGFUL        ║
 ║                                          ║
 ╚══════════════════════════════════════════╝
 ```
