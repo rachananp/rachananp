@@ -57,12 +57,6 @@ A technology-driven project exploring **digital identity protection and intellig
 
 ---
 
-### 🧠 Tattva
-
-A real-world problem-solving project focused on applying technology to build a **practical and meaningful solution**.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
