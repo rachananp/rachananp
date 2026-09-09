@@ -11,6 +11,7 @@ I'm interested in understanding **how intelligent systems work, how models behav
 [![GitHub](https://img.shields.io/badge/GitHub-rachananp-181717?style=for-the-badge\&logo=github)](https://github.com/rachananp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rachana%20N.P-7C3AED?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/rachana-n-p-6a0ba8389/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:rachananpfreelancing@gmail.com)
+[![Porfolio]](https://portfolio-phi-three-ymuqpkkv0x.vercel.app/)
 
 </div>
 
