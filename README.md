@@ -32,7 +32,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### `ML`
 
@@ -41,7 +41,7 @@ Learning
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### `DL`
 
@@ -50,23 +50,13 @@ Learning
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### `CV`
 
 Computer
 Vision
 
-</td>
-
-<td align="center" width="25%">
-
-### `DS`
-
-Data
-Science
-
-</td>
 </tr>
 </table>
 
@@ -81,7 +71,7 @@ Science
 
 `Python` · `NumPy` · `Pandas` · `SciPy`
 `Matplotlib` · `Seaborn`
-`Scikit-learn` · `PyTorch` · `TensorFlow` / `Keras`
+`Scikit-learn` · `PyTorch` · `TensorFlow`
 
 </div>
 
@@ -121,7 +111,7 @@ Trying to understand **what matters**.
 
 <br><br>
 
-**960+ days of learning a language on Duolingo**
+**1000+ days of learning a language on Duolingo**
 
 </div>
 
