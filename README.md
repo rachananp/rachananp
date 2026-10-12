@@ -68,12 +68,6 @@ Languages, reading, and exploring ideas beyond my immediate field.
 
 <br/><br/>
 
-
-<img src="https://komarev.com/ghpvc/?username=rachananp&style=flat-square&color=6E7681&label=PROFILE+VIEWS" alt="Profile views"/>
-
-
-<br/><br/>
-
 <sub>Curiosity is the starting point. Evidence is the standard.</sub>
 
 </div>
