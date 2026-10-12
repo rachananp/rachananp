@@ -1,141 +1,77 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&center=true&vCenter=true&width=720&lines=Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+Computer+Vision;Data+Science+%E2%80%A2+Curiosity+%E2%80%A2+Research;Learning+how+machines+learn." alt="Typing header"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=8B9BB4&center=true&vCenter=true&width=650&lines=Machine+Learning+%2F+Deep+Learning;Computer+Vision+%2F+Data+Science;Learning+to+build.+Building+to+understand." alt="Machine Learning, Deep Learning, Computer Vision and Data Science" />
 
-<br><br>
+# Rachana N. P.
 
-# Rachana N.P.
+**Machine Learning · Deep Learning · Computer Vision**
 
-### `Computer Science Engineering Student`
+*Computer Science Engineering Student*
 
-<br>
+<br/>
 
-<a href="https://portfolio-phi-three-ymuqpkkv0x.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/rachana-n-p-6a0ba8389/">
-<img src="https://img.shields.io/badge/LINKEDIN-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<a href="https://portfolio-phi-three-ymuqpkkv0x.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/rachana-n-p-6a0ba8389/"><img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
-<br>
+---
 
-<div align="center">
+### About
 
-> **Learning the mathematics. Building the models. Understanding the intelligence.**
+I'm a Computer Science Engineering student interested in understanding how machine learning systems learn, generalize, and interpret data.
 
-</div>
+My focus is on **machine learning, deep learning, computer vision, and data science** — developing the mathematical foundations, implementation skills, and experimental discipline needed to build reliable models.
 
-<br>
+I value understanding *why a method works*, not just getting it to run.
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+### Technical focus
 
-### `ML`
+| Area | Focus |
+|:--|:--|
+| Machine Learning | Statistical foundations, model training, evaluation |
+| Deep Learning | Neural networks, optimization, PyTorch, TensorFlow |
+| Computer Vision | Visual representation, image understanding |
+| Data Science | Data analysis, preprocessing, experimentation |
 
-Machine
-Learning
+### Current toolkit
 
-</td>
+`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `SciPy` · `Scikit-learn` · `PyTorch` · `TensorFlow`
 
-<td align="center" width="33%">
+*Tools and topics are listed as learning areas, not as claims of equal proficiency.*
 
-### `DL`
-
-Deep
-Learning
-
-</td>
-
-<td align="center" width="33%">
-
-### `CV`
-
-Computer
-Vision
-
-</tr>
-</table>
-
-<br>
-
-<details>
-<summary><b>⌁ Currently learning</b></summary>
-
-<br>
-
-<div align="center">
-
-`Python` · `NumPy` · `Pandas` · `SciPy`
-`Matplotlib` · `Seaborn`
-`Scikit-learn` · `PyTorch` · `TensorFlow`
-
-</div>
-
-</details>
-
-<details>
-<summary><b>⌁ The direction</b></summary>
-
-<br>
+### How I approach problems
 
 ```text
-Mathematics
-     ↓
-Machine Learning
-     ↓
-Deep Learning
-     ↓
-Computer Vision
-     ↓
-Research
+Understand the problem
+        ↓
+Study the underlying ideas
+        ↓
+Implement and experiment
+        ↓
+Evaluate against evidence
+        ↓
+Document what worked — and what didn't
 ```
 
-Not trying to learn everything.
+My goal is to develop the ability to move from mathematical understanding to sound implementations and meaningful experiments.
 
-Trying to understand **what matters**.
+### Beyond computing
 
-</details>
-
-<details>
-<summary><b>⌁ Outside the code</b></summary>
-
-<br>
+Languages, reading, and exploring ideas beyond my immediate field.
 
 <div align="center">
 
-🌍 Languages · 📚 Reading · 🔎 Curiosity
+<br/>
 
-<br><br>
+<a href="https://portfolio-phi-three-ymuqpkkv0x.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/rachana-n-p-6a0ba8389/">LinkedIn</a>
 
-**1000+ days of learning a language on Duolingo**
+<br/><br/>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=rachananp&style=flat-square&color=6E7681&label=PROFILE+VIEWS" alt="Profile views"/>
 
-</details>
+<br/><br/>
 
-<br>
-
-<div align="center">
-
-### `LET'S CONNECT`
-
-<a href="https://portfolio-phi-three-ymuqpkkv0x.vercel.app/">Portfolio</a>
-  ·   <a href="https://www.linkedin.com/in/rachana-n-p-6a0ba8389/">LinkedIn</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=rachananp&style=flat-square&label=VISITORS" alt="Profile visitors"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>Built with curiosity. Updated with intent.</sub>
+<sub>Curiosity is the starting point. Evidence is the standard.</sub>
 
 </div>
